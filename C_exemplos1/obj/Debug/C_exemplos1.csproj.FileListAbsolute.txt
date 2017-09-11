@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017\C_exemplos1\bin\Debug\C_exemplos1.exe.config
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017\C_exemplos1\bin\Debug\C_exemplos1.exe
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017\C_exemplos1\bin\Debug\C_exemplos1.pdb
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017\C_exemplos1\obj\Debug\C_exemplos1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017\C_exemplos1\obj\Debug\C_exemplos1.exe
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017\C_exemplos1\obj\Debug\C_exemplos1.pdb
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017\C_exemplos1\bin\Debug\C_exemplos1.exe.config
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017\C_exemplos1\bin\Debug\C_exemplos1.exe
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017\C_exemplos1\bin\Debug\C_exemplos1.pdb
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017\C_exemplos1\obj\Debug\C_exemplos1.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017\C_exemplos1\obj\Debug\C_exemplos1.exe
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017\C_exemplos1\obj\Debug\C_exemplos1.pdb
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017 - 1\C_exemplos1\bin\Debug\C_exemplos1.exe.config
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017 - 1\C_exemplos1\obj\Debug\C_exemplos1.exe
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017 - 1\C_exemplos1\obj\Debug\C_exemplos1.pdb
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017 - 1\C_exemplos1\obj\Debug\C_exemplos1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017 - 1\C_exemplos1\bin\Debug\C_exemplos1.exe
+C:\Users\Admin\Desktop\HugoSharp\CSharp_17Julho2017 - 1\C_exemplos1\bin\Debug\C_exemplos1.pdb
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017 - 1\C_exemplos1\bin\Debug\C_exemplos1.exe.config
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017 - 1\C_exemplos1\bin\Debug\C_exemplos1.exe
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017 - 1\C_exemplos1\bin\Debug\C_exemplos1.pdb
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017 - 1\C_exemplos1\obj\Debug\C_exemplos1.exe
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017 - 1\C_exemplos1\obj\Debug\C_exemplos1.pdb
+C:\Users\Hugo\MEOCloud\Citeforma\C#\CSharp_17Julho2017 - 1\C_exemplos1\obj\Debug\C_exemplos1.csprojResolveAssemblyReference.cache
